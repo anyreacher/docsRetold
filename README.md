@@ -1,5 +1,3 @@
-# 🚧 Under Construction 🚧
-
 # docsRetold
 
 Summarize text from documents, websites, images, videos using AI.
@@ -20,6 +18,7 @@ cd docsRetold
 
 2. Run frontend
 ```bash
+npm install
 npm run dev
 ```
 
