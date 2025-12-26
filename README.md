@@ -12,7 +12,7 @@ Current available information sources: text
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Anubisworkingexperience/docsRetold.git
+git clone https://github.com/anyreacher/docsRetold.git
 cd docsRetold
 ```
 
